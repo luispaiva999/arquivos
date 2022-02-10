@@ -1,7 +1,7 @@
 {
  "empresas": [
-{ "empresa": "empresa1", "id": 1   ,"tipo":"Seguros","area":"Financeira"}, 
-{ "empresa": "empresa2", "id": 2   ,"tipo":"Seguros","area":"Financeira"}, 
+{ "empresa": "Lcmp", "id": 1   ,"tipo":"Seguros","area":"Produtos"}, 
+{ "empresa": "KM", "id": 2   ,"tipo":"Seguros","area":"Vendas"}, 
 { "empresa": "empresa3", "id": 3   ,"tipo":"Seguros","area":"Financeira"}, 
 { "empresa": "empresa4", "id": 4   ,"tipo":"Seguros","area":"Financeira"}, 
 { "empresa": "empresa5", "id": 5   ,"tipo":"Seguros","area":"Financeira"}, 
